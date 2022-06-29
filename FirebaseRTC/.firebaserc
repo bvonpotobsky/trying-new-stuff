@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "fir-rtc-89b99",
+    "trying-rtc": "fir-rtc-61358"
+  },
+  "targets": {}
+}
