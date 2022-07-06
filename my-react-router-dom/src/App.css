@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  box-sizing: border-box;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.App {
+  width: 100%;
+}
+
+body {
+  text-align: center;
+}
+
+header {
+  background-color: rgb(155, 76, 76);
+  width: 100%;
+  padding: 1rem;
+  text-align: center;
+}
+
+nav {
+  text-align: center;
+}
+
+nav ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+  color: aliceblue;
+  gap: 10px;
+  padding: 1rem;
+}
+
+nav ul li,
+nav ul li:visited {
+  margin: 0 10px;
+  color: white;
+  text-decoration: none;
+}
